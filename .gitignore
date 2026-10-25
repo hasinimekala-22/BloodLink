@@ -1,0 +1,9 @@
+
+out/
+*.class
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+mysql-reset.sql
